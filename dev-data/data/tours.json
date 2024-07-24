@@ -1,0 +1,470 @@
+[
+  {
+    "startLocation": {
+      "description": "Mumbai, India",
+      "type": "Point",
+      "coordinates": [72.8777, 19.076],
+      "address": "Gateway of India, Mumbai, Maharashtra, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2024-06-19T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "The Indian Coastal Explorer",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 497,
+    "summary": "Exploring the breathtaking Indian west coast by foot and by boat",
+    "description": "Discover the stunning coastal landscapes and vibrant cultures of India's west coast. This tour takes you through the iconic beaches, bustling cities, and serene islands, offering a blend of adventure and relaxation. Experience the local cuisine, historical landmarks, and the natural beauty of the Indian coastline.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Juhu Beach",
+        "type": "Point",
+        "coordinates": [72.8265, 19.0988],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Goa Beaches",
+        "type": "Point",
+        "coordinates": [73.818, 15.2993],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Gokarna",
+        "type": "Point",
+        "coordinates": [74.3247, 14.5501],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Mangalore Beach",
+        "type": "Point",
+        "coordinates": [74.856, 12.9141],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Munnar, India",
+      "type": "Point",
+      "coordinates": [77.061, 10.0889],
+      "address": "Munnar, Kerala, India"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2024-04-25T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "The Western Ghats Trekker",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 397,
+    "summary": "Exhilarating hike through the lush green Western Ghats of India",
+    "description": "Explore the serene and picturesque landscapes of the Western Ghats. This trek offers an escape into nature, with lush greenery, rolling hills, and stunning views. Immerse yourself in the natural beauty and biodiversity of this UNESCO World Heritage Site.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Eravikulam National Park",
+        "type": "Point",
+        "coordinates": [77.0378, 10.1606],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Anamudi Peak",
+        "type": "Point",
+        "coordinates": [77.0784, 10.1745],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Chinnar Wildlife Sanctuary",
+        "type": "Point",
+        "coordinates": [77.1667, 10.3377],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Manali, India",
+      "type": "Point",
+      "coordinates": [77.1887, 32.2396],
+      "address": "Manali, Himachal Pradesh, India"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2024-01-05T10:00:00.000Z",
+      "2024-02-12T10:00:00.000Z",
+      "2025-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "The Himalayan Snow Adventurer",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 997,
+    "summary": "Thrilling snow adventure with skiing and snowboarding in the Himalayas",
+    "description": "Experience the thrill of the snow-covered Himalayan landscapes with our exclusive skiing and snowboarding tour. Perfect for adventure enthusiasts, this tour promises adrenaline-pumping activities amidst breathtaking snowy vistas. Join us for an unforgettable experience in the heart of the Himalayas!",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Solang Valley",
+        "type": "Point",
+        "coordinates": [77.1566, 32.3194],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Rohtang Pass",
+        "type": "Point",
+        "coordinates": [77.1804, 32.3647],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Delhi, India",
+      "type": "Point",
+      "coordinates": [77.1025, 28.7041],
+      "address": "India Gate, Rajpath, India Gate, New Delhi, Delhi 110001, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2024-08-05T09:00:00.000Z",
+      "2025-03-20T10:00:00.000Z",
+      "2025-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "The Indian Park Camper",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 1497,
+    "summary": "Immersing in nature in India's most breathtaking National Parks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Jim Corbett National Park",
+        "type": "Point",
+        "coordinates": [78.7748, 29.53],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Kaziranga National Park",
+        "type": "Point",
+        "coordinates": [93.3638, 26.5775],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Ranthambore National Park",
+        "type": "Point",
+        "coordinates": [76.5026, 26.0173],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Bandhavgarh National Park",
+        "type": "Point",
+        "coordinates": [80.963, 23.687],
+        "day": 9
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Mumbai, India",
+      "type": "Point",
+      "coordinates": [72.8777, 19.076],
+      "address": "Gateway of India, Mumbai, Maharashtra, India"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2024-03-11T10:00:00.000Z",
+      "2024-05-02T09:00:00.000Z",
+      "2024-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "The Indian City Wanderer",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 1197,
+    "summary": "Experiencing the charm and culture of India's most iconic cities",
+    "description": "Explore the vibrant cities of India, each with its unique charm and cultural richness. From the bustling streets of Mumbai to the historical wonders of Delhi, this tour offers a comprehensive experience of urban India. Join us to discover the beauty and diversity of Indian city life!",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Mumbai",
+        "type": "Point",
+        "coordinates": [72.8777, 19.076],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Delhi",
+        "type": "Point",
+        "coordinates": [77.209, 28.6139],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Kolkata",
+        "type": "Point",
+        "coordinates": [88.3639, 22.5726],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Goa, India",
+      "type": "Point",
+      "coordinates": [73.8567, 15.2993],
+      "address": "Baga Beach, Goa, India"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2024-07-19T09:00:00.000Z",
+      "2024-09-06T09:00:00.000Z",
+      "2025-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "The Indian Sports Lover",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2997,
+    "summary": "Surfing, paragliding, river rafting, rock climbing, and more, all in one tour",
+    "description": "Join us for an exhilarating tour packed with a variety of adventurous sports activities in India. From surfing on the beaches of Goa to paragliding in Manali, this tour is designed for the ultimate sports enthusiast. Experience the thrill and excitement of outdoor sports in some of India's most scenic locations.",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Baga Beach",
+        "type": "Point",
+        "coordinates": [73.7437, 15.5525],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Dona Paula Jetty",
+        "type": "Point",
+        "coordinates": [73.8135, 15.4639],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Bir Billing Paragliding",
+        "type": "Point",
+        "coordinates": [76.7248, 32.0426],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Rishikesh River Rafting",
+        "type": "Point",
+        "coordinates": [78.2676, 30.1035],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "Manali Rock Climbing",
+        "type": "Point",
+        "coordinates": [77.1892, 32.2432],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kanha National Park, Madhya Pradesh, India",
+      "type": "Point",
+      "coordinates": [80.8718, 22.5726],
+      "address": "Kanha National Park, Madhya Pradesh, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2024-03-23T10:00:00.000Z",
+      "2024-10-25T09:00:00.000Z",
+      "2025-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "The Star Gazer",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2997,
+    "summary": "Explore the darkest skies in India’s most remote and stunningly beautiful places for stargazing.",
+    "description": "Join us on a journey to some of the most remote and breathtaking locations in India, perfect for stargazing. Experience the clear, star-filled skies of Kanha National Park, the mystical landscape of Spiti Valley, and the serene beauty of Ladakh's Nubra Valley, making for unforgettable nights under the stars.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Kanha National Park",
+        "type": "Point",
+        "coordinates": [80.8718, 22.5726],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Spiti Valley",
+        "type": "Point",
+        "coordinates": [78.6787, 32.0085],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Nubra Valley, Ladakh",
+        "type": "Point",
+        "coordinates": [78.6497, 34.4533],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Leh, Ladakh, India",
+      "type": "Point",
+      "coordinates": [77.577049, 34.1648],
+      "address": "Leh, Ladakh, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2024-12-16T10:00:00.000Z",
+      "2025-01-16T10:00:00.000Z",
+      "2025-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "The Indian Northern Lights",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 1497,
+    "summary": "Experience the enchanting Northern Lights in the serene landscapes of Ladakh, India",
+    "description": "Join us on an unforgettable journey to witness the mesmerizing Northern Lights in the tranquil setting of Ladakh, India. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Leh, Ladakh",
+        "type": "Point",
+        "coordinates": [77.577049, 34.1648],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Nashik, Maharashtra, India",
+      "type": "Point",
+      "coordinates": [73.8077, 20.0119],
+      "address": "Nashik, Maharashtra, India"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2024-02-12T10:00:00.000Z",
+      "2024-04-14T09:00:00.000Z",
+      "2024-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "The Indian Wine Taster",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 1997,
+    "summary": "Discover exquisite wines, scenic vineyards, and exclusive tastings in Nashik, India",
+    "description": "Embark on a journey through Nashik, India's wine country, where you'll indulge in the finest wines, explore scenic vineyards, and enjoy exclusive barrel tastings. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Sula Vineyards",
+        "type": "Point",
+        "coordinates": [73.6806, 19.9947],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Soma Vine Village",
+        "type": "Point",
+        "coordinates": [73.8323, 19.9712],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "York Winery & Tasting Room",
+        "type": "Point",
+        "coordinates": [73.7003, 20.0005],
+        "day": 5
+      }
+    ]
+  }
+]
